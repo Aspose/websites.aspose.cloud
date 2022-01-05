@@ -1,5 +1,5 @@
 ---
-title: About aspose.cloud - Websites - aspose.com
+title: About aspose.cloud
 description: 
 keywords: 
 draft: false
